@@ -1,2 +1,4 @@
-# open_recipe
-Delicious open source recipes for engineers
+# Open Recipe 🥘
+Simple, cost-effective, and delicious recipes.
+
+Current: v0.0
